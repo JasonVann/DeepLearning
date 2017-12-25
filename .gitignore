@@ -7,6 +7,7 @@ __pycache__/
 *.pdf
 *.pptx
 *.xlsx
+*.icloud
 # C extensions
 *.so
 
